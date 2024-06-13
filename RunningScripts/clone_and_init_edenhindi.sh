@@ -5,6 +5,8 @@ cd HumanChoicePrediction
 
 conda env create -f requirements.yml
 
+conda init
+
 conda activate final_project_env
 
 wandb login
