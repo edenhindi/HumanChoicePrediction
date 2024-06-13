@@ -3,7 +3,7 @@ import wandb
 YOUR_WANDB_USERNAME = "eden-hindi"
 #YOUR_WANDB_USERNAME = "guytechnion-org"
 
-project = "NLP2024_PROJECT"
+project = "NLP2024_PROJECT_edenhindi"
 
 command = [
     "${ENVIRONMENT_VARIABLE}",
